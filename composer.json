@@ -1,0 +1,12 @@
+{
+    "name": "bear/base32",
+    "description": "Base32 pollyfill for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Base32\\": "src/"
+        }
+    }
+}
